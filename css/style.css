@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.gallery-images img {
+    width: 100px;
+    margin: 10px;
+}
+
+/* Change the background color of the header */
+header {
+    background: #003366; /* Dark blue */
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Change the navigation bar links */
+nav ul li a {
+    color: #FFD700; /* Gold */
+    text-decoration: none;
+}
+
+/* Change the background of each section */
+section {
+    padding: 20px;
+    background: #F4F4F4; /* Light gray */
+}
+
+/* Footer color */
+footer {
+    background: #003366; /* Dark blue */
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
